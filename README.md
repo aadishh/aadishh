@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Software Developer from India<br>Building seamless web experiences with Next.js and Python.<br>1 year of GitHub expertise in version control and collaboration.
+Passionate Software Developer from India with Expertise in Web development and Problem Solving .
 
 
 ## 🌐 Socials:
